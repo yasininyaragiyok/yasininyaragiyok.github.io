@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+h1,h2, p{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+#censored{
+    font-size: large;
+}
+#banner{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 5%;
+    filter: blur(4px);
+}
+th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    width: 33%;
+    height: 35px;
+  }
+  table{
+      width: 100%;
+  }
+  .features{
+      margin: 25px 50px;
+  }
+  .navbar{
+      background-color: aqua;
+      margin: 20px 5px;
+      height: 30px;
+      text-align: center;
+  }
+  .navbarelements{
+      margin: 0 5;
+      padding: 5px 10px;
+      background-color: black;
+  }
+  .photo{
+      margin: 50 50;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
