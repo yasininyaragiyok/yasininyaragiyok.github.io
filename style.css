@@ -26,19 +26,12 @@ th, td {
   .features{
       margin: 25px 50px;
   }
-  .navbar{
-      background-color: aqua;
-      margin: 20px 5px;
-      height: 30px;
-      text-align: center;
-  }
   .navbarelements{
-      margin: 0 5;
+      margin: 1 5;
       padding: 5px 10px;
-      background-color: black;
   }
   .photo{
-      margin: 50 50;
+      margin: 20px 50px;
   }
 
   ul {
